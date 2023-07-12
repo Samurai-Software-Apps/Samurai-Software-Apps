@@ -704,6 +704,16 @@
   margin:0 2rem 0 0
 
 }
+footer{
+  background:black;
+  color:white;
+  padding:2rem;
+  left:0;
+  right:0;
+  position:absolute;
+  margin-top:2rem
+}
+
 
 .contact{
   color:white;
